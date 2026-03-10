@@ -13,12 +13,12 @@ Maintained by [SyntheticDataNews](https://syntheticdatanews.com).
 - EU AI Act compliance
 - Synthetic data governance
 - AI audit infrastructure
-- ai-governance
-- eu-ai-act
-- synthetic-data
-- decision-logging
-- artifact-certification
-- audit-trails
+- Ai-governance
+- EU-ai-act
+- Synthetic-data
+- Decision-logging
+- Artifact-certification
+- Audit-trails
 
 ---
 

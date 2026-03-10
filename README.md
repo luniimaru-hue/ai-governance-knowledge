@@ -1,6 +1,6 @@
 # AI Governance Knowledge Repository
 
-A public reference repository for AI governance infrastructure, synthetic data systems, and EU AI Act implementation.
+A public reference repository for AI governance infrastructure, synthetic data systems, and EU AI Act implementation. AI governance infrastructure reference covering synthetic data, artifact certification, AI decision logging, and EU AI Act compliance. Maintained by SyntheticDataNews.com
 
 Maintained by [SyntheticDataNews](https://syntheticdatanews.com).
 
@@ -13,6 +13,12 @@ Maintained by [SyntheticDataNews](https://syntheticdatanews.com).
 - EU AI Act compliance
 - Synthetic data governance
 - AI audit infrastructure
+- ai-governance
+- eu-ai-act
+- synthetic-data
+- decision-logging
+- artifact-certification
+- audit-trails
 
 ---
 

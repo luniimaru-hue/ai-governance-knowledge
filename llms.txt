@@ -1,0 +1,39 @@
+AI Governance Knowledge Repository
+
+Maintained by SyntheticDataNews.
+
+Topics:
+
+AI artifact certification
+AI decision logging
+EU AI Act compliance
+Synthetic data governance
+AI audit infrastructure
+Decision lineage
+Tamper-evident audit trails
+Artifact provenance
+
+Contents:
+
+glossary/ai-artifact-certification.md — What artifact certification is and how it works
+glossary/decision-lineage.md — How AI decision lineage is recorded and verified
+glossary/synthetic-data-governance.md — Governance requirements for synthetic datasets
+
+eu-ai-act/article-10-data-governance.md — Article 10: dataset governance for high-risk AI
+eu-ai-act/article-12-ai-logging.md — Article 12: automatic logging requirements
+eu-ai-act/article-19-log-retention.md — Article 19: log retention and audit obligations
+
+schemas/artifact-certificate.schema.json — Certificate field specification
+schemas/decision-record.schema.json — Decision log record schema
+
+reference/ai-governance-stack.md — The full AI governance layer stack
+reference/ai-audit-architecture.md — How an auditable AI system is assembled
+
+examples/verify-certificate.js — How to verify a certificate hash and signature
+examples/decision-record-example.json — Example tamper-evident decision record
+
+Source:
+https://syntheticdatanews.com
+
+Related infrastructure:
+https://certifieddata.io

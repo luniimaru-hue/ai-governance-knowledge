@@ -106,14 +106,14 @@ function verifySignature(certificate, publicKeyPem) {
 async function main() {
   // Load an example certificate (replace with real path)
   const certificate = {
-    certificate_id: "5815f7b8-da55-48c8-a6cd-304e49476604",
+    certificate_id: "a1b2c3d4-0000-0000-0000-example00001",
     artifact_hash: "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     issued_at: "2026-01-15T09:00:00Z",
-    issuer: "CertifiedData.io",
+    issuer: "your-certifying-authority.example.com",
     signature_algorithm: "Ed25519",
-    public_key_url: "https://certifieddata.io/.well-known/signing-keys.json",
+    public_key_url: "https://your-certifying-authority.example.com/.well-known/signing-keys.json",
     signature: "<base64url-encoded-signature>",
-    verification_url: "https://certifieddata.io/verify/5815f7b8-da55-48c8-a6cd-304e49476604"
+    verification_url: "https://your-certifying-authority.example.com/verify/a1b2c3d4-0000-0000-0000-example00001"
   };
 
   console.log("Certificate ID:", certificate.certificate_id);

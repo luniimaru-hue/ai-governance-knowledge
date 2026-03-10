@@ -51,16 +51,15 @@
       "properties": {
         "engine": {
           "type": "string",
-          "enum": ["light", "gaussian", "ctgan", "dp-ctgan"],
-          "description": "Synthesis engine used."
+          "description": "Synthesis engine or method used (e.g. 'ctgan', 'gaussian-copula', 'dp-ctgan'). Value is issuer-defined."
         },
         "algorithm": {
           "type": "string",
-          "description": "Full algorithm identifier and parameter string."
+          "description": "Full algorithm identifier and parameter specification string."
         },
         "epsilon": {
           "type": "number",
-          "description": "Differential privacy epsilon value (dp-ctgan only)."
+          "description": "Differential privacy epsilon value, where applicable."
         }
       }
     },

